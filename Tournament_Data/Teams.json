@@ -1,0 +1,161 @@
+{
+	"Russia": {
+		"initial": "RUS",
+		"rank": 70
+	},
+
+	"Saudi Arabia": {
+		"initial": "KSA",
+		"rank": 67
+	},
+
+	"Egypt": {
+		"initial": "EGY",
+		"rank": 45
+	},
+
+	"Uruguay": {
+		"initial": "URU",
+		"rank": 14
+	},
+
+	"Spain": {
+		"initial": "ESP",
+		"rank": 10
+	},
+
+	"Portugal": {
+		"initial": "POR",
+		"rank": 4
+	},
+
+	"Iran": {
+		"initial": "IRN",
+		"rank": 37
+	},
+
+	"Morocco": {
+		"initial": "MAR",
+		"rank": 41
+	},
+
+	"France": {
+		"initial": "FRA",
+		"rank": 7
+	},
+
+	"Denmark": {
+		"initial": "DEN",
+		"rank": 12
+	},
+
+	"Australia": {
+		"initial": "AUS",
+		"rank": 36
+	},
+
+	"Peru": {
+		"initial": "PER",
+		"rank": 11
+	},
+
+	"Argentina": {
+		"initial": "ARG",
+		"rank": 5
+	},
+
+	"Croatia": {
+		"initial": "CRO",
+		"rank": 20
+	},
+
+	"Nigeria": {
+		"initial": "NIG",
+		"rank": 48
+	},
+
+	"Iceland": {
+		"initial": "ISL",
+		"rank": 22
+	},
+
+	"Brazil": {
+		"initial": "BRA",
+		"rank": 2
+	},
+
+	"Serbia": {
+		"initial": "SER",
+		"rank": 34
+	},
+
+	"Costa Rica": {
+		"initial": "CRC",
+		"rank": 23
+	},
+
+	"Switzerland": {
+		"initial": "SUI",
+		"rank": 6
+	},
+
+	"Germany": {
+		"initial": "GER",
+		"rank": 1
+	},
+
+	"Mexico": {
+		"initial": "MEX",
+		"rank": 15
+	},
+
+	"Sweden": {
+		"initial": "SWE",
+		"rank": 24
+	},
+
+	"South Korea": {
+		"initial": "KOR",
+		"rank": 57
+	},
+
+	"Belgium": {
+		"initial": "BEL",
+		"rank": 3
+	},
+
+	"Tunisia": {
+		"initial": "TUN",
+		"rank": 21
+	},
+
+	"England": {
+		"initial": "ENG",
+		"rank": 12
+	},
+
+	"Panama": {
+		"initial": "PAN",
+		"rank": 55
+	},
+
+	"Colombia": {
+		"initial": "COL",
+		"rank": 16
+	},
+
+	"Senegal": {
+		"initial": "SEN",
+		"rank": 27
+	},
+
+	"Japan": {
+		"initial": "JPN",
+		"rank": 61
+	},
+
+	"Poland": {
+		"initial": "POL",
+		"rank": 8
+	},
+}
