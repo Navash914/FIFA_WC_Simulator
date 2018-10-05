@@ -1,3 +1,3 @@
-# FIFA_WC_Simulator
+# FIFA WC Simulator
 
-Contains source code and installer for a console application that simulates the FIFA World Cup 2018.
+Contains source code and installer for a C# console application that simulates the FIFA World Cup 2018.
